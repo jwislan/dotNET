@@ -1,0 +1,13 @@
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\bin\Debug\netcoreapp3.1\DIO_Projeto1.exe
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\bin\Debug\netcoreapp3.1\DIO_Projeto1.deps.json
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\bin\Debug\netcoreapp3.1\DIO_Projeto1.runtimeconfig.json
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\bin\Debug\netcoreapp3.1\DIO_Projeto1.runtimeconfig.dev.json
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\bin\Debug\netcoreapp3.1\DIO_Projeto1.dll
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\bin\Debug\netcoreapp3.1\DIO_Projeto1.pdb
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\obj\Debug\netcoreapp3.1\DIO_Projeto1.csprojAssemblyReference.cache
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\obj\Debug\netcoreapp3.1\DIO_Projeto1.AssemblyInfoInputs.cache
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\obj\Debug\netcoreapp3.1\DIO_Projeto1.AssemblyInfo.cs
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\obj\Debug\netcoreapp3.1\DIO_Projeto1.csproj.CoreCompileInputs.cache
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\obj\Debug\netcoreapp3.1\DIO_Projeto1.dll
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\obj\Debug\netcoreapp3.1\DIO_Projeto1.pdb
+D:\Dados do Usuário\Documents\GitHub\dotNET\DIO_Projeto1\DIO_Projeto1\obj\Debug\netcoreapp3.1\DIO_Projeto1.genruntimeconfig.cache
