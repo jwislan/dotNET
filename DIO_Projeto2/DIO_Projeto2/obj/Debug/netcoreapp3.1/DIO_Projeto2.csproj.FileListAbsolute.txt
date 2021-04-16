@@ -1,0 +1,13 @@
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\bin\Debug\netcoreapp3.1\DIO_Projeto2.exe
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\bin\Debug\netcoreapp3.1\DIO_Projeto2.deps.json
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\bin\Debug\netcoreapp3.1\DIO_Projeto2.runtimeconfig.json
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\bin\Debug\netcoreapp3.1\DIO_Projeto2.runtimeconfig.dev.json
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\bin\Debug\netcoreapp3.1\DIO_Projeto2.dll
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\bin\Debug\netcoreapp3.1\DIO_Projeto2.pdb
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\obj\Debug\netcoreapp3.1\DIO_Projeto2.csprojAssemblyReference.cache
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\obj\Debug\netcoreapp3.1\DIO_Projeto2.AssemblyInfoInputs.cache
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\obj\Debug\netcoreapp3.1\DIO_Projeto2.AssemblyInfo.cs
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\obj\Debug\netcoreapp3.1\DIO_Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\obj\Debug\netcoreapp3.1\DIO_Projeto2.dll
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\obj\Debug\netcoreapp3.1\DIO_Projeto2.pdb
+C:\Users\jwisl\source\repos\DIO_Projeto2\DIO_Projeto2\obj\Debug\netcoreapp3.1\DIO_Projeto2.genruntimeconfig.cache
